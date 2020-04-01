@@ -1,0 +1,75 @@
+body{
+background-image: url("silhouette-of-mountains-1323550.jpg");
+}
+h1{
+color:red;
+font-size:80px;
+text-decoration:underline;
+display:inline-block;
+font-family:"Arial Black",Helvetica,serif,sans-serif;
+}
+h2{
+color:#800000;
+font-size:60px;
+text-decoration:underline;
+font-family:"Arial Black",Helvetica,serif,sans-serif;
+}
+.fword{
+color:green;
+font-family:"Arial Black",Helvetica,serif,sans-serif;
+}
+.sword{
+color:red;
+font-family:"Arial Black",Helvetica,serif,sans-serif;
+}
+.stop{
+height:60px;
+width:60px;
+vertical-align:middle;
+}
+.mask{
+height:100px;
+width:100px;
+}
+.mask1{
+color:red;
+font-size:30px
+}
+.line1{
+font-family:"Merriweather",Helvetica,serif,sans-serif;
+color:#000000;
+}
+hr{
+border-style:none;
+border-top-style:dotted;
+border-color:#ffd700;
+border-width:5px;
+width:10%;
+padding-bottom:15px;
+}
+.who
+{
+height:400px;
+width:800px;
+}
+.first{
+text-align:center;
+text-decoration: underline;
+}
+.just{
+text-align:center;
+}
+p{
+display:inline-block;
+font-size:50px;
+text-decoration: underline;
+}
+.dec{
+color:black;
+font-size:30px;
+}
+.top{
+width:60px;
+height:60px;
+}
+

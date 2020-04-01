@@ -1,0 +1,9 @@
+body{
+background-image: url("desk-flatlay-items-keyboard-399160(1).jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}

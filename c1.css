@@ -1,0 +1,9 @@
+body{
+background-image: url("wall-clock-at-5-50-707582.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}
